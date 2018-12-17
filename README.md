@@ -6,4 +6,6 @@
 
 
 
-
+## wiki
+- wiki에 정리 중 입니다. 
+https://github.com/wkimdev/eos-smartcontract-dc/wiki
