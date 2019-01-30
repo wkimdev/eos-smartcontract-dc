@@ -7,5 +7,5 @@
 
 
 ## wiki
-- wiki에 정리 중 입니다.   
+- project를 위해 학습한 EOS 정리
 https://github.com/wkimdev/eos-smartcontract-dc/wiki
